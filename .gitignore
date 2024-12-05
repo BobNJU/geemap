@@ -11,6 +11,9 @@ docs/notebooks/*.zip
 docs/notebooks/*.las
 docs/notebooks/*.csv
 docs/notebooks/*.gif
+docs/notebooks/*.png
+docs/notebooks/*.jpg
+docs/notebooks/*.tif
 docs/notebooks/*.laz
 docs/notebooks/*.nc
 docs/notebooks/*.html
